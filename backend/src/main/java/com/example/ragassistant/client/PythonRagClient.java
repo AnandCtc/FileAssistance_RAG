@@ -48,7 +48,7 @@ System.out.println("STEP 12: Calling /api/chat");
                         question
                 );
 
-        Map response =
+        Map<?, ?> response =
                 restTemplate.postForObject(
                         url,
                         request,

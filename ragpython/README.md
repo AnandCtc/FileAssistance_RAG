@@ -228,4 +228,3 @@ UPLOAD_DIR=app/uploads
 5.mvn clean install (To clean build the application).
 6.mvn spring-boot:run;
 7.Open browser and check.(http://localhost:8080/api/test)
-
